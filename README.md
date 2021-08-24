@@ -1,11 +1,11 @@
 # design
 Author By Fahim Ahmed
 
-$ git clone https://github.com/Fahim-XD/zphisher.sh.git
+$ git clone https://github.com/Fahim-XD/design.git
 
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `magic.sh` -
 
 ```
 
