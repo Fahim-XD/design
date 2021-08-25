@@ -1,7 +1,7 @@
 # design
 Author By Fahim Ahmed
 
-$ git clone https://github.com/Fahim-XD/design.git
+$ git clone https://github.com/Fahim-XD/design
 
 ```
 
