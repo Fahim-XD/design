@@ -11,4 +11,4 @@ $ git clone https://github.com/Fahim-XD/design
 
 $ cd design
 
-$ bash magic.py
+$ bash Magic.py
